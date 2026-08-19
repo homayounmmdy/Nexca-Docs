@@ -12,7 +12,7 @@
   },
   "author": "Homayoun",
   "dependencies": {
-    "next": "^13.0.6",
+    "next": "^16.3.1",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",

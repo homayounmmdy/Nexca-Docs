@@ -1,3 +1,10 @@
+> ⚠️ **IMPORTANT NOTICE: PROJECT ARCHIVED** ⚠️
+> 
+> **This repository has been archived and will no longer receive updates.** 
+> 
+> The Nexca-Docs project is actively being migrated into the main [Nexca Repository](https://github.com/homayounmmdy/Nexca) and will soon be integrated as part of a **monorepo** structure. For the latest documentation, active development, and future updates, please refer to the main Nexca repository.
+
+---
 
 # Nexca-Docs | Your Comprehensive Guide to Nexca
 
@@ -61,10 +68,12 @@ Before diving into Nexca, ensure your system meets the following requirements:
 
 ## **Contributing**
 
-We welcome contributions from the community! If you'd like to contribute to Nexca-Docs or the Nexca project, follow these steps:
+*(Note: As this repository is archived, please direct all new contributions and pull requests to the main [Nexca Repository](https://github.com/homayounmmdy/Nexca) where the monorepo is being established.)*
+
+We welcome contributions from the community! If you'd like to contribute to the Nexca project, follow these steps in the main repository:
 
 1. **Fork the Repository**  
-   Create your own fork of the Nexca repository.
+   Create your own fork of the main Nexca repository.
 
 2. **Create a New Branch**  
    Start a new branch for your changes:
@@ -89,6 +98,6 @@ We welcome contributions from the community! If you'd like to contribute to Nexc
 
 ## **Why Nexca?**
 
-Nexca is more than just an admin panel. it's a platform designed to simplify content management, enhance productivity, and foster creativity. Whether you're an agency managing multiple clients, a blogger sharing your passion, or a creator building your brand, Nexca is here to support your goals.
+Nexca is more than just an admin panel. It's a platform designed to simplify content management, enhance productivity, and foster creativity. Whether you're an agency managing multiple clients, a blogger sharing your passion, or a creator building your brand, Nexca is here to support your goals.
 
 ![1000000388](https://github.com/user-attachments/assets/b06d77df-1d17-436b-8a54-20c0092d1436)
